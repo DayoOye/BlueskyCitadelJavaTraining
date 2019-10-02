@@ -1,0 +1,5 @@
+stepdefs\loginstep.class
+stepdefs\Wishliststep.class
+stepdefs\Eurostep.class
+stepdefs\buyerstep.class
+testrunner.class
